@@ -1,1 +1,1 @@
-# KnightL-on-a-Chessboard-algo
+# KnightL-on-a-Chessboard-algo The function calculates the minimum number of moves for a knight with custom moves (a, b) to reach the opposite corner of an n×n chessboard using BFS. It repeats this for all possible (a, b) move pairs and stores the results in a grid.
